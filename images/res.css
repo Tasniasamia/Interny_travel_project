@@ -1,0 +1,116 @@
+@media only screen and (max-width: 700px) {
+    .navbar-nav{
+        margin-left:0px;
+        text-align: right;
+        
+        
+    }
+    nav{
+        background-color: black;
+    }
+    .d-flex {
+        margin-left: 59%;
+        margin-top: 12px;
+        margin-bottom: 5px;
+    }
+   form.search-bar{
+   text-align: center;
+   margin-top: 15%;
+   }
+   form.search-bar input{
+    text-align: center;
+   }
+   form.search-bar button{
+    padding:5% 5%;
+    border-radius: 50%;
+    outline: none;
+    border:none;
+    
+}
+.search-btn{
+    margin: auto;
+    margin-left: 65px;
+}
+.section-header1 {
+	font-size: 29px;
+	font-weight: 500;
+	margin: 50px 111px 20px;
+	color: #333;
+}
+.images {
+	display: grid;
+	grid-template-columns: auto;
+	gap: 30px;
+	
+	margin-left: 44px;
+}
+.images2 {
+	display: grid;
+	grid-template-columns: auto;
+	gap: 30px;
+	margin-left: 44px;
+	margin-top: 30px;
+}
+.images div span {
+	position: absolute;
+	top: 55%;
+	left: 44%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	color: white;
+}
+.images2 div span {
+	position: absolute;
+	top: 55%;
+	left: 44%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	color: white;
+}
+
+
+
+/*sharing*/
+
+.eta-title {
+	color: white;
+	font-size: 43px;
+	font-weight: 600;
+	line-height: 63px;
+}
+.eta p{
+    color:white;
+    margin-bottom: 3%;
+    
+}
+a.share-btn{
+    text-decoration: none;
+    color:white;
+    padding:1% 2%;
+    background-color: #fe3a43;
+    margin-top:5%;
+    border-radius: 5px;
+}
+.stories {
+	display: grid;
+	grid-template-columns: auto;
+	gap: 22px;
+	margin-bottom: 5%;
+	
+	text-align: center;
+}
+
+.about-title {
+	padding: 7.2% 0;
+	font-size: 28px;
+	font-weight: bold;
+	color: #333;
+}
+.about p {
+	font-size: 10px;
+	color: #999;
+	text-align: justify;
+}
+  }
+
+
